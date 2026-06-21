@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37301.10 d17.14
+VisualStudioVersion = 17.14.37301.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decorator", "decorator\decorator.csproj", "{0D65DB9D-082D-479F-9E22-56F8725E556D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{A6483689-FAD5-4B5E-842E-C92C84689396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adapter", "adapter\adapter.csproj", "{11415833-3A60-4B51-B294-245E93D2DD2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0D65DB9D-082D-479F-9E22-56F8725E556D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D65DB9D-082D-479F-9E22-56F8725E556D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D65DB9D-082D-479F-9E22-56F8725E556D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6483689-FAD5-4B5E-842E-C92C84689396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6483689-FAD5-4B5E-842E-C92C84689396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6483689-FAD5-4B5E-842E-C92C84689396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6483689-FAD5-4B5E-842E-C92C84689396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11415833-3A60-4B51-B294-245E93D2DD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11415833-3A60-4B51-B294-245E93D2DD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11415833-3A60-4B51-B294-245E93D2DD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11415833-3A60-4B51-B294-245E93D2DD2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
